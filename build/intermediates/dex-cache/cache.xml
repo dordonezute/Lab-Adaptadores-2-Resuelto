@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\dordonez\GitHub\Android\Lab-Adaptadores-2-Resuelto\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\libs\internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Lab-Adaptadores-2-Resuelto\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.4.0_f5e0c00630f18173012186923b0401403031fc96\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dordonez\GitHub\Android\Lab-Adaptadores-2-Resuelto\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f6cb914e3e014393d03b55461faa7c24034a9d52">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Lab-Adaptadores-2-Resuelto\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_9059b5faa32d6e44f37c14619f57394a2b674298\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dordonez\GitHub\Android\Lab-Adaptadores-2-Resuelto\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.4.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Lab-Adaptadores-2-Resuelto\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.4.0_364e33552bf581e1b5ffafc3cecb5c689806a4c2\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dordonez\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.4.0\support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Lab-Adaptadores-2-Resuelto\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.4.0_b8d8e800fae55878057a5d5f758d7d9fa41c95ce\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\dordonez\GitHub\Android\Lab-Adaptadores-2-Resuelto\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="9522cefe4d7e990dadd7facddfb12fa5704e4e6d">
+        <dex dex="C:\Users\dordonez\GitHub\Android\Lab-Adaptadores-2-Resuelto\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_d17104a926de30d040218ac669669c8eb6c751b0\classes.dex" />
+    </item>
+
+</items>

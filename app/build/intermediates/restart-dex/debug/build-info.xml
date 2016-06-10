@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86_64,x86"
+    api-level="23"
+    density="420dpi"
+    format="7"
+    timestamp="12875856452611"
+    token="-7587260401959223053" >
+
+    <task
+        name="javac"
+        duration="1315" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="204" />
+    <task
+        name="verifier"
+        duration="59" />
+
+    <artifact
+        location="C:\Users\dordonez\GitHub\Android\Lab-Adaptadores-2-Resuelto\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
+
+    <build timestamp="12875856452611" >
+        <artifact
+            location="C:\Users\dordonez\GitHub\Android\Lab-Adaptadores-2-Resuelto\app\build\outputs\apk\app-debug.apk"
+            type="MAIN" />
+    </build>
+
+</instant-run>
